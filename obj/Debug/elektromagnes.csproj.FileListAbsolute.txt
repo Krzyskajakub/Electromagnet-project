@@ -1,0 +1,28 @@
+D:\hubercik palichlebek\elektromagnes\elektromagnes\elektromagnes\bin\Debug\elektromagnes.exe.config
+D:\hubercik palichlebek\elektromagnes\elektromagnes\elektromagnes\obj\Debug\elektromagnes.csprojResolveAssemblyReference.cache
+D:\hubercik palichlebek\elektromagnes\elektromagnes\elektromagnes\obj\Debug\elektromagnes.Form1.resources
+D:\hubercik palichlebek\elektromagnes\elektromagnes\elektromagnes\obj\Debug\elektromagnes.Properties.Resources.resources
+D:\hubercik palichlebek\elektromagnes\elektromagnes\elektromagnes\obj\Debug\elektromagnes.csproj.GenerateResource.Cache
+D:\hubercik palichlebek\elektromagnes\elektromagnes\elektromagnes\bin\Debug\elektromagnes.exe
+D:\hubercik palichlebek\elektromagnes\elektromagnes\elektromagnes\bin\Debug\elektromagnes.pdb
+D:\hubercik palichlebek\elektromagnes\elektromagnes\elektromagnes\obj\Debug\elektromagnes.exe
+D:\hubercik palichlebek\elektromagnes\elektromagnes\elektromagnes\obj\Debug\elektromagnes.pdb
+D:\Jakub Krzyska\elektromagnes\elektromagnes\bin\Debug\elektromagnes.exe.config
+D:\Jakub Krzyska\elektromagnes\elektromagnes\obj\Debug\elektromagnes.exe
+D:\Jakub Krzyska\elektromagnes\elektromagnes\obj\Debug\elektromagnes.pdb
+D:\Jakub Krzyska\elektromagnes\elektromagnes\bin\Debug\elektromagnes.exe
+D:\Jakub Krzyska\elektromagnes\elektromagnes\bin\Debug\elektromagnes.pdb
+D:\Jakub Krzyska\elektromagnes\elektromagnes\obj\Debug\elektromagnes.csprojResolveAssemblyReference.cache
+D:\Jakub Krzyska\elektromagnes\elektromagnes\obj\Debug\elektromagnes.Form1.resources
+D:\Jakub Krzyska\elektromagnes\elektromagnes\obj\Debug\elektromagnes.Properties.Resources.resources
+D:\Jakub Krzyska\elektromagnes\elektromagnes\obj\Debug\elektromagnes.csproj.GenerateResource.Cache
+C:\Users\Kuba\Desktop\elektromagnes1\elektromagnes\bin\Debug\elektromagnes.exe.config
+C:\Users\Kuba\Desktop\elektromagnes1\elektromagnes\bin\Debug\elektromagnes.exe
+C:\Users\Kuba\Desktop\elektromagnes1\elektromagnes\bin\Debug\elektromagnes.pdb
+C:\Users\Kuba\Desktop\elektromagnes1\elektromagnes\obj\Debug\elektromagnes.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Desktop\elektromagnes1\elektromagnes\obj\Debug\elektromagnes.Form1.resources
+C:\Users\Kuba\Desktop\elektromagnes1\elektromagnes\obj\Debug\elektromagnes.Properties.Resources.resources
+C:\Users\Kuba\Desktop\elektromagnes1\elektromagnes\obj\Debug\elektromagnes.csproj.GenerateResource.cache
+C:\Users\Kuba\Desktop\elektromagnes1\elektromagnes\obj\Debug\elektromagnes.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\elektromagnes1\elektromagnes\obj\Debug\elektromagnes.exe
+C:\Users\Kuba\Desktop\elektromagnes1\elektromagnes\obj\Debug\elektromagnes.pdb
